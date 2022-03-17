@@ -1,0 +1,10 @@
+C:\Users\liviu\source\repos\CarShop\CarShop.Util\bin\Debug\netcoreapp3.1\CarShop.Utility.deps.json
+C:\Users\liviu\source\repos\CarShop\CarShop.Util\bin\Debug\netcoreapp3.1\CarShop.Utility.dll
+C:\Users\liviu\source\repos\CarShop\CarShop.Util\bin\Debug\netcoreapp3.1\CarShop.Utility.pdb
+C:\Users\liviu\source\repos\CarShop\CarShop.Util\obj\Debug\netcoreapp3.1\CarShop.Utility.csproj.AssemblyReference.cache
+C:\Users\liviu\source\repos\CarShop\CarShop.Util\obj\Debug\netcoreapp3.1\CarShop.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liviu\source\repos\CarShop\CarShop.Util\obj\Debug\netcoreapp3.1\CarShop.Utility.AssemblyInfoInputs.cache
+C:\Users\liviu\source\repos\CarShop\CarShop.Util\obj\Debug\netcoreapp3.1\CarShop.Utility.AssemblyInfo.cs
+C:\Users\liviu\source\repos\CarShop\CarShop.Util\obj\Debug\netcoreapp3.1\CarShop.Utility.csproj.CoreCompileInputs.cache
+C:\Users\liviu\source\repos\CarShop\CarShop.Util\obj\Debug\netcoreapp3.1\CarShop.Utility.dll
+C:\Users\liviu\source\repos\CarShop\CarShop.Util\obj\Debug\netcoreapp3.1\CarShop.Utility.pdb
