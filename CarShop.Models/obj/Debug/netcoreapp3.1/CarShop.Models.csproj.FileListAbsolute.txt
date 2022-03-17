@@ -17,3 +17,4 @@ C:\Users\liviu\Desktop\CarShop\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Mo
 C:\Users\liviu\Desktop\CarShop\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Models.csproj.CoreCompileInputs.cache
 C:\Users\liviu\Desktop\CarShop\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Models.dll
 C:\Users\liviu\Desktop\CarShop\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Models.pdb
+C:\Users\liviu\Desktop\CarShop\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Models.csproj.AssemblyReference.cache

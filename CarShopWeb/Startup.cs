@@ -14,6 +14,8 @@ using Microsoft.Extensions.Hosting;
 using CarShop.DataAccess.Data;
 using CarShop.DataAccess.Repository.IRepository;
 using CarShop.DataAccess.Repository;
+using Microsoft.AspNetCore.Identity.UI.Services;
+using CarShop.Utility;
 
 namespace CarShop
 {
@@ -32,8 +34,9 @@ namespace CarShop
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
-            services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+            services.AddIdentity<IdentityUser, IdentityRole>().AddDefaultTokenProviders()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddSingleton<IEmailSender, EmailSender>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews().AddRazorRuntimeCompilation();
             services.AddRazorPages();

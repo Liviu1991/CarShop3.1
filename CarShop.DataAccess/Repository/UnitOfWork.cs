@@ -16,6 +16,7 @@ namespace CarShop.DataAccess.Repository
             _db = db;
             VehicleType = new VehicleTypeRepository(_db);
             FuelType = new FuelTypeRepository(_db);
+            ApplicationUser = new ApplicationUserRepository(_db);
             Product = new ProductRepository(_db);
             SP_Call = new SP_Call(_db);
         }
@@ -23,6 +24,7 @@ namespace CarShop.DataAccess.Repository
         public IVehicleTypeRepository VehicleType { get; private set; }
         public IFuelTypeRepository FuelType { get; private set; }
         public IProductRepository Product { get; private set; }
+        public IApplicationUserRepository ApplicationUser { get; private set; }
         public ISP_Call SP_Call { get; private set; }
 
         public void Dispose()

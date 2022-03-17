@@ -16,5 +16,6 @@ namespace CarShop.DataAccess.Data
         public DbSet<VehicleType> VehicleTypes { get; set; }
         public DbSet<FuelType> FuelTypes { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
     }
 }

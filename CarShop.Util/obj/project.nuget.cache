@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "RgpgVfRCFVNG+h8HfYasCurjaYK6wyiAG8vpy1XP5iHiWKOel/9WwUqD626BMp555edgnBobxWJmLiWB8enG4A==",
+  "dgSpecHash": "RZ8s5hzF41iKE7fzVpc5H+AkgSrGayW80NN9eWaD8Cke3nDk62uTaBj7tXULrOkCq0faUwSdlOhQ/RJwB9akpA==",
   "success": true,
   "projectFilePath": "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.Util\\CarShop.Util.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.21\\microsoft.aspnetcore.cryptography.internal.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.21\\microsoft.aspnetcore.cryptography.keyderivation.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\3.1.21\\microsoft.aspnetcore.identity.ui.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.21\\microsoft.extensions.caching.abstractions.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.21\\microsoft.extensions.configuration.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.21\\microsoft.extensions.configuration.abstractions.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.21\\microsoft.extensions.configuration.binder.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.21\\microsoft.extensions.dependencyinjection.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.21\\microsoft.extensions.dependencyinjection.abstractions.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.21\\microsoft.extensions.fileproviders.abstractions.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\3.1.21\\microsoft.extensions.fileproviders.embedded.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.21\\microsoft.extensions.identity.core.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.21\\microsoft.extensions.identity.stores.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.extensions.logging\\3.1.21\\microsoft.extensions.logging.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.21\\microsoft.extensions.logging.abstractions.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.extensions.options\\3.1.21\\microsoft.extensions.options.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.21\\microsoft.extensions.primitives.3.1.21.nupkg.sha512",
+    "C:\\Users\\liviu\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
