@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.DataAccess\\CarShop.DataAccess.csproj": {}
+    "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.DataAccess\\CarShop.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.DataAccess\\CarShop.DataAccess.csproj": {
+    "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.DataAccess\\CarShop.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.DataAccess\\CarShop.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.DataAccess\\CarShop.DataAccess.csproj",
         "projectName": "CarShop.DataAccess",
-        "projectPath": "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.DataAccess\\CarShop.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\liviu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.DataAccess\\CarShop.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Liviu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\liviu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Liviu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.Models\\CarShop.Models.csproj": {
-                "projectPath": "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.Models\\CarShop.Models.csproj"
+              "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.Models\\CarShop.Models.csproj": {
+                "projectPath": "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.Models\\CarShop.Models.csproj"
               },
-              "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.Util\\CarShop.Util.csproj": {
-                "projectPath": "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.Util\\CarShop.Util.csproj"
+              "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.Util\\CarShop.Util.csproj": {
+                "projectPath": "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.Util\\CarShop.Util.csproj"
               }
             }
           }
@@ -87,17 +87,17 @@
         }
       }
     },
-    "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.Models\\CarShop.Models.csproj": {
+    "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.Models\\CarShop.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.Models\\CarShop.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.Models\\CarShop.Models.csproj",
         "projectName": "CarShop.Models",
-        "projectPath": "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.Models\\CarShop.Models.csproj",
-        "packagesPath": "C:\\Users\\liviu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.Models\\obj\\",
+        "projectPath": "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.Models\\CarShop.Models.csproj",
+        "packagesPath": "C:\\Users\\Liviu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\liviu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Liviu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -151,17 +151,17 @@
         }
       }
     },
-    "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.Util\\CarShop.Util.csproj": {
+    "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.Util\\CarShop.Util.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.Util\\CarShop.Util.csproj",
+        "projectUniqueName": "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.Util\\CarShop.Util.csproj",
         "projectName": "CarShop.Util",
-        "projectPath": "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.Util\\CarShop.Util.csproj",
-        "packagesPath": "C:\\Users\\liviu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liviu\\Desktop\\CarShop\\CarShop.Util\\obj\\",
+        "projectPath": "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.Util\\CarShop.Util.csproj",
+        "packagesPath": "C:\\Users\\Liviu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Liviu\\Desktop\\Projects\\CarShop3.1\\CarShop.Util\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\liviu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Liviu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
