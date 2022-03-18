@@ -137,9 +137,13 @@ namespace CarShopWeb.Areas.Identity.Pages.Account
                     }
 
                    /* await _userManager.AddToRoleAsync(user, SD.Role_Admin);*/
-                   if(user.Role == null)
+                    if (user.Role == null)
                     {
                         await _userManager.AddToRoleAsync(user, SD.Role_User_Indi);
+                    }
+                    else
+                    {
+                        await _userManager.AddToRoleAsync(user, user.Role);
                     }
 
 

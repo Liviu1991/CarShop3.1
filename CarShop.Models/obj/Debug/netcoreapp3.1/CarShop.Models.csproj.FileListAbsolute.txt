@@ -18,3 +18,13 @@ C:\Users\liviu\Desktop\CarShop\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Mo
 C:\Users\liviu\Desktop\CarShop\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Models.dll
 C:\Users\liviu\Desktop\CarShop\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Models.pdb
 C:\Users\liviu\Desktop\CarShop\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Models.csproj.AssemblyReference.cache
+C:\Users\Liviu\Desktop\Projects\CarShop3.1\CarShop.Models\bin\Debug\netcoreapp3.1\CarShop.Models.deps.json
+C:\Users\Liviu\Desktop\Projects\CarShop3.1\CarShop.Models\bin\Debug\netcoreapp3.1\CarShop.Models.dll
+C:\Users\Liviu\Desktop\Projects\CarShop3.1\CarShop.Models\bin\Debug\netcoreapp3.1\CarShop.Models.pdb
+C:\Users\Liviu\Desktop\Projects\CarShop3.1\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Models.csproj.AssemblyReference.cache
+C:\Users\Liviu\Desktop\Projects\CarShop3.1\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liviu\Desktop\Projects\CarShop3.1\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Models.AssemblyInfoInputs.cache
+C:\Users\Liviu\Desktop\Projects\CarShop3.1\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Models.AssemblyInfo.cs
+C:\Users\Liviu\Desktop\Projects\CarShop3.1\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\Desktop\Projects\CarShop3.1\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Models.dll
+C:\Users\Liviu\Desktop\Projects\CarShop3.1\CarShop.Models\obj\Debug\netcoreapp3.1\CarShop.Models.pdb
